@@ -1,5 +1,6 @@
 # Load relevant packages
 library(dplyr)
+library(lubridate)
 
 setwd("~/Desktop/ExData_Plotting1-master") # Set working directory to cloned repository
 
